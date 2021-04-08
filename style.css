@@ -1,0 +1,28 @@
+h1{
+    color: rgb(78, 255, 196);
+    text-align: center;
+    background-color: goldenrod;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: bisque;
+}
+
+.item{
+
+    text-align: right;
+    border: violet;
+    align-items:unset;
+
+}
+.link{
+
+    background-color: greenyellow;
+}
+.set{
+    background-color: rgb(250, 195, 223);
+    border: violet;
+    border-radius: 100px;
+    text-align: center;
+}
